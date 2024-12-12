@@ -22,7 +22,7 @@ export default function Home(props) {
         <div className={homeStyles.landing}>
           <div className={homeStyles.left}>
             <div className={homeStyles.desc}>
-              <h1 className={homeStyles.title}>The Orpheus Show</h1>
+              <h1 className={homeStyles.title}>The Orpheus Show V2</h1>
               <div>
                 <h3 className={homeStyles.subtitle}>
                   Brought to you by the Hack Club Podcast Team
