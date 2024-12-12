@@ -5,25 +5,25 @@ import Image from 'next/image'
 
 const members = [
   {
-    name: 'Arav',
+    name: 'Rushil (@Rrr)',
     desc: 'Co-Host \n Operations',
-    link: 'https://github.com/tregsthedev',
-    image: 'arav.jpg'
+    link: 'https://github.com/WolfGamer2',
+    image: 'rrr.jpg'
   },
   {
-    name: 'Reese',
+    name: 'Coming Soon',
     desc: 'Co-host \n Operations',
-    link: 'https://reeseric.ci',
-    image: 'reesericci.png'
+    link: 'https://example.com',
+    image: 'example.png'
   },
 
 
 
   {
-    name: 'Arash',
-    desc: 'Development',
-    link: 'https://github.com/arashnrim',
-    image: 'arash.jpg'
+    name: 'Coming Soon',
+    desc: 'Co-host',
+    link: 'https://example.com',
+    image: 'example.jpg'
   },
  
   
@@ -69,7 +69,25 @@ const former_members = [
     desc: 'Development',
     link: 'https://github.com/l3gacyb3ta',
     image: 'arc.jpg'
-  }
+  },
+  {
+    name: 'Arav',
+    desc: 'Co-Host \n Operations',
+    link: 'https://github.com/tregsthedev',
+    image: 'arav.jpg'
+  },
+  {
+    name: 'Reese',
+    desc: 'Co-host \n Operations',
+    link: 'https://reeseric.ci',
+    image: 'reesericci.png'
+  },
+  {
+    name: 'Arash',
+    desc: 'Development',
+    link: 'https://github.com/arashnrim',
+    image: 'arash.jpg'
+  },
   ]
   
   
